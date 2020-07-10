@@ -28,7 +28,7 @@ I currently learning and use in my personal projects something like:
 - Docker;
 
 ## 📫 How to reach me: 
-If you wanna reach me, it's easy! Send me and [e-mail](eduardoferreira1306@icloud.com) or contact me on [LinkedIn](https://www.linkedin.com/in/eduardo-lopes-ferreira-001a17181/)! Will be a pleasure talking to you.
+If you wanna reach me, it's easy! Send me an [e-mail](eduardoferreira1306@icloud.com) or contact me on [LinkedIn](https://www.linkedin.com/in/eduardo-lopes-ferreira-001a17181/)! Will be a pleasure talking to you.
 
 ## ⚡ Fun facts: 
 🎸  I was a guitar player and I was sold my guitar to buy a Macbook Pro 2011 Late to started programming. I've bought a Mac because I will want yet to become a IOS developer in a near future 👾.\
