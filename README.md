@@ -1,5 +1,5 @@
-# Hi, I'm Eduardo Ferreira - Fullstack Web/Mobile Developer 👋
-I'm 25 years old! 🇧🇷\
+# Hi, there 👋
+I'm Eduardo Ferreira - Fullstack Web/Mobile Developer, I'm 25 years old! 🇧🇷\
 I started my programming journey in April 2018, after watching many videos and trying to research something that I identify with. After consulting and looking for specializations for my professional life, I decide to become a programmer, because I saw many specific points that a programmer has. So, here i am.
 
 ## 👨🏽‍💻 I’m currently learning 
